@@ -1,7 +1,7 @@
 import React from 'react'
 import homepage from '../img/homepage.png'
 import { useNavigate } from 'react-router-dom'
-import Play from './Play'
+
 import { Link } from 'react-router-dom'
 
 const Homepage = () => {
